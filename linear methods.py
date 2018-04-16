@@ -1,3 +1,3 @@
 print("hello world")
-def f(x):
-  return (x**2)
+def f(x,y):
+  return ((x+y)**2)
